@@ -1,0 +1,12 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "转换器jpg＆png";
+
+/* Bundle name */
+"CFBundleName" = "图像转换器";
+
+/* Privacy - Photo Library Additions Usage Description */
+"NSPhotoLibraryAddUsageDescription" = "在照片库中添加保存的图像";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "从照片库中选择图像";
+

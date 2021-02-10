@@ -1,0 +1,6 @@
+framework module Pods_ImageConverter {
+  umbrella header "Pods-ImageConverter-umbrella.h"
+
+  export *
+  module * { export * }
+}

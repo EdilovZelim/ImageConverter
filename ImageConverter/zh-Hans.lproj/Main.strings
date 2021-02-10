@@ -1,0 +1,39 @@
+/* Class = "UIButton"; normalTitle = "Save as jpeg"; ObjectID = "1yd-55-2cc"; */
+"1yd-55-2cc.normalTitle" = "另存为jpeg";
+
+/* Class = "UILabel"; text = "ADD IMAGES"; ObjectID = "atQ-vX-pAB"; */
+"atQ-vX-pAB.text" = "添加图像";
+
+/* Class = "UILabel"; text = "Save as jpeg (.jpeg)"; ObjectID = "bfr-YF-Z5c"; */
+"bfr-YF-Z5c.text" = "另存为jpeg（.jpeg）";
+
+/* Class = "UIButton"; normalTitle = "Converted Images"; ObjectID = "bol-q7-zMt"; */
+"bol-q7-zMt.normalTitle" = "转换后的图像";
+
+/* Class = "UIButton"; normalTitle = "Add Images"; ObjectID = "cjU-4D-Wwn"; */
+"cjU-4D-Wwn.normalTitle" = "添加图片";
+
+/* Class = "UIButton"; normalTitle = "Rate"; ObjectID = "e8a-ei-yt0"; */
+"e8a-ei-yt0.normalTitle" = "率";
+
+/* Class = "UILabel"; text = "Share"; ObjectID = "RzS-wL-3ao"; */
+"RzS-wL-3ao.text" = "分享";
+
+/* Class = "UILabel"; text = "Rate"; ObjectID = "smz-hn-Dbu"; */
+"smz-hn-Dbu.text" = "率";
+
+/* Class = "UILabel"; text = "Converted Images"; ObjectID = "To9-br-9yZ"; */
+"To9-br-9yZ.text" = "转换后的图像";
+
+/* Class = "UILabel"; text = "Save as png (.png)"; ObjectID = "UGa-ZQ-1Bk"; */
+"UGa-ZQ-1Bk.text" = "另存为png（.png）";
+
+/* Class = "UIButton"; normalTitle = "Save as png"; ObjectID = "YhW-QQ-yTD"; */
+"YhW-QQ-yTD.normalTitle" = "另存为png";
+
+/* Class = "UINavigationItem"; title = "IMAGE CONVERTER"; ObjectID = "YoD-dM-maN"; */
+"YoD-dM-maN.title" = "图像转换器";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "zhm-23-JUH"; */
+"zhm-23-JUH.normalTitle" = "分享";
+
